@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.vue": "vue",
+        "*.wpy": "vue",
+        "*.wxml": "html",
+        "*.wxss": "css",
+        "*.html": "html",
+        "ostream": "cpp",
+        "memory": "cpp",
+        "vector": "cpp"
+    },
+    "jupyter.jupyterServerType": "local"
+}
