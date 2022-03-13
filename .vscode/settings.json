@@ -9,5 +9,38 @@
         "memory": "cpp",
         "vector": "cpp"
     },
-    "jupyter.jupyterServerType": "local"
+    "jupyter.jupyterServerType": "local",
+    "cSpell.words": [
+        "ddddocr",
+        "dropna",
+        "dtype",
+        "jieba",
+        "lxml",
+        "ndim",
+        "neweditor",
+        "pesg",
+        "posseg",
+        "qqplot",
+        "quantile",
+        "sklearn",
+        "snownlp",
+        "spidered",
+        "wojiao",
+        "ylabel"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "121.5.111.160",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "TencentCloud MYSQL8",
+            "password": "wojiaoWanHao123",
+            "database": "wh_db",
+            "username": "root"
+        }
+    ]
 }
