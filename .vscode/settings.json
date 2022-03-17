@@ -41,6 +41,19 @@
             "password": "wojiaoWanHao123",
             "database": "wh_db",
             "username": "root"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "101.43.149.64",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "Light Cloud MYSQL8",
+            "database": "test_one",
+            "username": "root",
+            "password": "wojiaoWanHao123"
         }
     ]
 }
